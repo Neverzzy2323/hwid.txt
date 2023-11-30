@@ -1,0 +1,2 @@
+# hwid.txt
+spoofer hwid
